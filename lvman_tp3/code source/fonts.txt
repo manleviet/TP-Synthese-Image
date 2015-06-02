@@ -1,0 +1,7 @@
+"/usr/share/fonts/truetype/msttcorefonts/times.ttf",
+"/usr/share/fonts/truetype/msttcorefonts/arial.ttf",
+"/usr/share/fonts/truetype/msttcorefonts/ariblk.ttf",
+"/usr/share/fonts/truetype/msttcorefonts/ariali.ttf",
+"/usr/share/fonts/truetype/msttcorefonts/cour.ttf",
+"/usr/share/fonts/truetype/msttcorefonts/georgiaz.ttf",
+"/usr/share/fonts/truetype/msttcorefonts/trebucit.ttf"
